@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <option name="BUILD_PROCESS_HEAP_SIZE" value="3072" />
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Brixton_Zuul" />
+        <module name="Brixton_RibbonConsume" />
+        <module name="Config_server" />
+        <module name="Brixton_FeignConsume" />
+        <module name="Config_use" />
+        <module name="Brixton_services" />
+        <module name="Brixton_eureka" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Brixton_eureka" target="1.8" />
+      <module name="Brixton_FeignConsume" target="8" />
+      <module name="Brixton_RibbonConsume" target="8" />
+      <module name="Brixton_services" target="1.8" />
+      <module name="Brixton_Zuul" target="8" />
+      <module name="common_parent" target="8" />
+      <module name="Config_server" target="1.8" />
+      <module name="Config_use" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

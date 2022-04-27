@@ -1,0 +1,14 @@
+配置中心 使用了公网http://git.oschina.net/didispace/SpringBoot-Learning/中的配置
+
+并根据不同环境新建了下面四个配置文件：
+
+didispace.properties
+didispace-dev.properties
+didispace-test.properties
+didispace-prod.properties
+其中设置了一个from属性，为每个配置文件分别设置了不同的值，如：
+
+from=git-default-1.0
+from=git-dev-1.0
+from=git-test-1.0
+from=git-prod-1.0

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Brixton_FeignConsume/Brixton_FeignConsume.iml" filepath="$PROJECT_DIR$/Brixton_FeignConsume/Brixton_FeignConsume.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Brixton_RibbonConsume/Brixton_RibbonConsume.iml" filepath="$PROJECT_DIR$/Brixton_RibbonConsume/Brixton_RibbonConsume.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Brixton_Zuul/Brixton_Zuul.iml" filepath="$PROJECT_DIR$/Brixton_Zuul/Brixton_Zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Brixton_eureka/Brixton_eureka.iml" filepath="$PROJECT_DIR$/Brixton_eureka/Brixton_eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Brixton_services/Brixton_services.iml" filepath="$PROJECT_DIR$/Brixton_services/Brixton_services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Config_server/Config_server.iml" filepath="$PROJECT_DIR$/Config_server/Config_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Config_use/Config_use.iml" filepath="$PROJECT_DIR$/Config_use/Config_use.iml" />
+    </modules>
+  </component>
+</project>
